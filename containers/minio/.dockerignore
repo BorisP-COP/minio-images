@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!fetch-binary.sh
+!entrypoint.sh
+!LICENSE
+!empty/
+!empty/.gitkeep

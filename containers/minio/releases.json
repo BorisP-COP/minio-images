@@ -1,0 +1,26 @@
+{
+  "base_image": "alpine:3.22@sha256:5291449c3df73caf6ed85e649dec1b9e818b39a5d8c871e97afc13e9cd5e8fa8",
+  "namespace": "ghcr.io/borisp-cop/minio-images",
+  "default_server": "RELEASE.2025-09-07T16-13-09Z",
+  "client": {
+    "release": "RELEASE.2025-08-13T08-35-41Z",
+    "sha256": {
+      "amd64": "01f866e9c5f9b87c2b09116fa5d7c06695b106242d829a8bb32990c00312e891",
+      "arm64": "14c8c9616cfce4636add161304353244e8de383b2e2752c0e9dad01d4c27c12c"
+    }
+  },
+  "servers": {
+    "RELEASE.2024-12-13T22-19-12Z": {
+      "amd64": "a9f5637f70f7aa5db287c00ee0752c10d01bc425ef56ef0972a46c5c15ffb379",
+      "arm64": "66cd0785c361bf67367ba6e333cf8f62be3752e559f092787a0d0924d66cf4a3"
+    },
+    "RELEASE.2025-02-28T09-55-16Z": {
+      "amd64": "5cb1e6309f2bd70e7d0ca77f33782beac1745790deb4c1f94444f1e7dec5fcb6",
+      "arm64": "f92539f2e9277d49ff939bf206cce6caf38f41dbee2fd08595cd72600b738b61"
+    },
+    "RELEASE.2025-09-07T16-13-09Z": {
+      "amd64": "7c5bd8512c6e966455b1d198209358b2d191c77a83ab377c4073281065fb855f",
+      "arm64": "5c83cd2cf151717ba0243f73e1c7802ff36e272b67144bdd7f1f7d684fd6f03d"
+    }
+  }
+}
